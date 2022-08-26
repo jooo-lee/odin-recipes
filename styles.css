@@ -3,12 +3,17 @@ body {
     font-family: Papyrus, "Times New Roman", sans-serif;
 }
 
-.title {
+h1 {
     text-align: center;
     font-size: 50px;
 }
 
-.img {
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -18,7 +23,8 @@ body {
     text-align: center;
 }
 
-.list {
+ul,
+ol {
     display: inline-block;
     text-align: left;
 }
