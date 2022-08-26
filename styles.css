@@ -3,13 +3,15 @@ body {
     font-family: Papyrus, "Times New Roman", sans-serif;
 }
 
-h1 {
+h1, h2, .container {
     text-align: center;
+}
+
+h1 {
     font-size: 50px;
 }
 
 h2 {
-    text-align: center;
     font-size: 30px;
 }
 
@@ -19,22 +21,12 @@ img {
     margin-right: auto;
 }
 
-.container {
-    text-align: center;
-}
-
-ul,
-ol {
+ul, ol {
     display: inline-block;
     text-align: left;
 }
 
-#mapotofuimg {
-    height: 600px;
-    width: auto;
-}
-
-#tunacasseroleimg {
+#mapotofuimg, #tunacasseroleimg {
     height: 600px;
     width: auto;
 }
