@@ -1,0 +1,24 @@
+body {
+    background-color: gray;
+    font-family: Papyrus, "Times New Roman", sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+}
