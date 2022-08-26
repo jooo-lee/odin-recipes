@@ -28,3 +28,8 @@ ol {
     display: inline-block;
     text-align: left;
 }
+
+#mapotofuimg {
+    height: 600px;
+    width: auto;
+}
